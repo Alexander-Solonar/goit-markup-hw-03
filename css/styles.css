@@ -143,6 +143,8 @@ body {
 }
 
 .section-banner {
+  padding-top: 200px;
+  padding-bottom: 200px;
   background-color: var(--footer-background-color);
 }
 
@@ -348,7 +350,7 @@ body {
 
 .footer-llink-map {
   font-style: normal;
-  line-height: 1.51;
+  line-height: 1.71;
   letter-spacing: 0.03em;
   color: var(--primary-color);
 }
@@ -360,7 +362,7 @@ body {
 
 .footer-llink-mail {
   font-style: normal;
-  line-height: 1.51;
+  line-height: 1.71;
   letter-spacing: 0.03em;
   color: var(--footer-contact-color);
 }
@@ -372,7 +374,7 @@ body {
 
 .footer-llink-tel {
   font-style: normal;
-  line-height: 1.51;
+  line-height: 1.71;
   letter-spacing: 0.03em;
   color: var(--footer-contact-color);
 }
@@ -416,8 +418,8 @@ body {
   letter-spacing: 0.03em;
   cursor: pointer;
   background-color: var(--secondary-background-color);
-  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
-    0px 2px 2px rgba(0, 0, 0, 0.12);
+  /* box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
+    0px 2px 2px rgba(0, 0, 0, 0.12); */
   border: transparent;
   border-radius: 4px;
 }
